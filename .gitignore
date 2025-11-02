@@ -1,0 +1,26 @@
+# Ignore Gradle build folder
+/backend/build/
+
+# Ignore Gradle cache folder (machine-specific)
+/backend/.gradle/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+out/
+
+# Ignore Eclipse project files
+*.classpath
+*.project
+*.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
